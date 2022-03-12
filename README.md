@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hey there 👋
+[![Jonas Ladner's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladnerjonas&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 Currently searching for a student working opportunity : [jonas.ladner@tum.de](mailto:jonas.ladner+job@tum.de)
+<!--
+does not show fork languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladnerjonas&layout=compact&langs_count=5&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **LadnerJonas/LadnerJonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
